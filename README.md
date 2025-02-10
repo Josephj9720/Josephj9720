@@ -11,7 +11,6 @@
 - Personal projects to sharpen my skills  
 - Open to collaborations & new learning opportunities  
 
-#
-    📌 **Find me here:**  
+<!--    📌 **Find me here:**  
     - Twitch: [TheGentleLord](https://www.twitch.tv/TheGentleLord)  
-    - Discord: **Lord Gentle**  
+    - Discord: **Lord Gentle**  -->
