@@ -1,4 +1,4 @@
-👋 **Hey, I'm Lord Gentle!**  
+👋 **Hey, I'm Jordan Joseph!**  
 🎓 Electrical Engineer → 💻 Aspiring Software Engineer  
 
 🔹 **Learning & Building**  
