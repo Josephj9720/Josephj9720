@@ -1,5 +1,5 @@
 👋 **Hey, I'm Jordan Joseph!**  
-🎓 Electrical Engineer → 💻 Aspiring Software Engineer  
+🎓 Electrical Engineer (CEP) → 💻 Aspiring Software Engineer  
 
 🔹 **Learning & Building**  
 - Mostly familiar with **Java**  
